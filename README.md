@@ -1,1 +1,1 @@
-# My-Personal-Portfolio-
+my personal portfolio showcases about me and my skills, projects as a developer. It's a collection of work I've done, demonstrating my proficiency in various technologies and my passion for building impactful website.
