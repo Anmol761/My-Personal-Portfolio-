@@ -492,7 +492,7 @@ footer {
   }
 
   
-  .about__content :is(.section__header, .section__description,.about__btn) {
+  .about__content :is(.section__header, .section__description, .about__btn) {
     text-align: left;
   }
 }
